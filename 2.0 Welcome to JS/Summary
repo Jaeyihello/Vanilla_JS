@@ -1,0 +1,15 @@
+****#Your First JS Project****
+
+자바 스크립트 사용 : 오른쪽 버튼 - Inspect(검사) - console
+
+`alert(”hi”)`
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a7bfc7dc-92e8-47d0-9252-09af54c9287d/Untitled.png)
+
+Vscode에서 `app.js`와 `index.html` 파일 생성
+
+js파일을 웹 브라우저에서 실행하기 위한 `style.css` 파일 생성
+
+- css와 js 파일을 브라우저에서 실행해주기 위한 접착제 같은 역할을 html이 한다
+- 브라우저는 html을 열고 html은 css와 js를 가져온다
+- html에서 !치면 기본 Document 뜬다
